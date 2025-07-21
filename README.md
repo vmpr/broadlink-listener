@@ -155,7 +155,7 @@ in which I've added the missing "swingModes" array, supported by climate but not
 
 `<DEVICE_TYPE>`, `<IP>`, `<MAC_ADDR>` parameter can be obtained running:
 ```bash
-$ broadlink-listener discover_ir
+$ broadlink-listener discover-ir
 ```
 
 
